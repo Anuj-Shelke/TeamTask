@@ -4,3 +4,5 @@ Readme for teamtask
 - Task management
 - User profiles
 - Project tracking
+
+TeamTask is a collaborative task management application.
